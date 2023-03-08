@@ -1,0 +1,1 @@
+echo "Deploy bat file :%time% :%date% "

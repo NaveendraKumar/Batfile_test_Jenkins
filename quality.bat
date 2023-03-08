@@ -1,0 +1,1 @@
+echo "Quality bat file :%time% :%date% "
