@@ -1,0 +1,1 @@
+echo "Unit test bat file :%time% :%date% "
