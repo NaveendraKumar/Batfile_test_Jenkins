@@ -1,0 +1,1 @@
+echo "welcome to test bat file :%time% :%date% "
